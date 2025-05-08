@@ -1,13 +1,69 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+````markdown
+# 🌐 Arpit Srivastava | Developer Portfolio
 
-Currently, two official plugins are available:
+This is my personal developer portfolio built using **React** and **Vite**. It showcases my projects, skills, and contact information in a fast and modern web app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 **Live Site:** [https://Arpit-sde1210.github.io/Portfolio-React](https://Arpit-sde1210.github.io/Portfolio-React)
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Portfolio-React" 
+- **Frontend:** React 19, Vite 6
+- **Styling:** CSS3, HTML5
+- **Libraries:** Typed.js (typing animations)
+- **Deployment:** GitHub Pages (via `gh-pages` branch)
+
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Arpit-sde1210/Portfolio-React.git
+   cd Portfolio-React
+````
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Build for production:
+
+   ```bash
+   npm run build
+   ```
+
+5. Deploy to GitHub Pages:
+
+   ```bash
+   npm run deploy
+   ```
+
+## 🔧 Configuration Notes
+
+Make sure your `vite.config.js` includes:
+
+```js
+base: '/Portfolio-React/'
+```
+
+And your `package.json` includes:
+
+```json
+"homepage": "https://Arpit-sde1210.github.io/Portfolio-React"
+```
+
+## 📬 Contact
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+```
