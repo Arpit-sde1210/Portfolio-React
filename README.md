@@ -1,3 +1,8 @@
+You're absolutely right — your current README snippet has **mismatched and nested code blocks**, especially due to the opening \`\`\`\`markdown and missing closing tags, which causes formatting issues on GitHub.
+
+Here’s a **cleaned-up, correct version** of your `README.md` — all in one section, properly formatted, and GitHub-render-friendly:
+
+---
 
 ````markdown
 # 🌐 Arpit Srivastava | Developer Portfolio
@@ -63,6 +68,10 @@ And your `package.json` includes:
 
 * 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 * 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+---
+
+```
 
 ---
 
