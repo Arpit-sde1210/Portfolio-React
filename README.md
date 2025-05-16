@@ -9,7 +9,7 @@ Here’s a **cleaned-up, correct version** of your `README.md` — all in one se
 
 This is my personal developer portfolio built using **React** and **Vite**. It showcases my projects, skills, and contact information in a fast and modern web app.
 
-🔗 **Live Site:** [https://Arpit-sde1210.github.io/Portfolio-React](https://Arpit-sde1210.github.io/Portfolio-React)
+🔗 **Live Site:** (https://Arpit-sde1210.github.io/Portfolio-React)
 
 ## 🛠 Tech Stack
 
