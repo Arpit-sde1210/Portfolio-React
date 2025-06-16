@@ -62,8 +62,8 @@ And your `package.json` includes:
 
 ## 📬 Contact
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 📧 Email: [arpit.sde1210@gmail.com](mailto:arpit.1210@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/arpit-sde](https://www.linkedin.com/in/arpit-sde/)
 
 ---
 
