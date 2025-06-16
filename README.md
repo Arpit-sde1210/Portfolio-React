@@ -67,8 +67,4 @@ And your `package.json` includes:
 
 ---
 
-```
 
----
-
-```
