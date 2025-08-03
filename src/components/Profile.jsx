@@ -34,7 +34,7 @@ const Profile = () => {
         <div className="btn-container">
           <button
             className="btn btn-color-2"
-            onClick={() => window.open(resume)}
+            onClick={() => window.open(Arpit_Srivastava_CV)}
           >
             Download CV
           </button>
